@@ -1,0 +1,29 @@
+_repo: Poems_13586
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rogers, Samuel
+    birthdate: 1763
+    deathdate: 1855
+    gutenberg_agent_id: '5141'
+    url: http://www.gutenberg.org/2009/agents/5141
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Rogers
+description: The pleaures of Memory. Los placeres de la Memoria Human Life. La vida
+  humana An Epistle to a Friend. Una carta á su amigo Jacqueline The voyage of Columbus.
+  El viaje de Colon
+gutenberg_issued: '2004-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13586'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 19th century'
+- !lcc 'PR'
+title: Poems
+url: http://www.gutenberg.org/ebooks/13586
